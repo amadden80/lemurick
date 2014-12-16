@@ -23,6 +23,7 @@ module Lemurick
         'Ye olde guide to debugging/adding a feature to  Rails: route, controller, action, layout, view, model, data, database',
         'Fail fast',
         'Never use tabs when writing code (unless you are writing a Makefile)',
+        'Oh god oh god I broke everything oh god'
       ]
     end
   end
