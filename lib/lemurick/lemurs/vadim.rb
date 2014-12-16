@@ -1,9 +1,9 @@
 module Lemurick
   class Vadim
-  	def speak 
-  		quotes.samples
+  	def speak
+  		quotes.sample
   	end
-  	
+
   	def quotes
   		[
   			"Yo Andre smoke",
@@ -12,6 +12,6 @@ module Lemurick
 
   		]
   	end
- 
+
   end
 end
