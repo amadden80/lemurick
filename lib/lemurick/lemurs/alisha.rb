@@ -15,6 +15,7 @@ module Lemurick
         "Chicago is awesome",
         "Here, have some turmeric",
         "This coffee is the worst",
+        "Let's play flip cup!"
       ]
     end
   end
