@@ -2,7 +2,7 @@ module Lemurick
   class Thomas
 
     def speak
-      quotes.samples
+      quotes.sample
     end
 
     def quotes
