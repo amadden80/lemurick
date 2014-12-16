@@ -16,7 +16,7 @@ module Lemurick
     end
 
     def coconut_oil
-      "...with coconut_oil"
+      "...with coconut oil"
     end
   end
 end
