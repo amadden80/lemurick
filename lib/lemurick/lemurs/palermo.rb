@@ -3,16 +3,16 @@ module Lemurick
 
   	def speak
   		quotes.sample
-  	end 
+  	end
 
   	def quotes
   		[
   			"I like Rails",
   			"Rails is great",
-  			"F#$K! why is this not working?!?",
+  			"Fuck! why is this not working?!?",
   			"Life is good",
   			"When are we going to do more rails stuff?"
   		]
+    end
   end
 end
-end 

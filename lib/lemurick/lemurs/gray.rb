@@ -7,7 +7,7 @@ module Lemurick
     def quotes
       [
         "it\'s wierd man!",
-        "who got to "+ rand(4..8) + " jezzballs?",
+        "who got to #{rand(4..8)} jezzballs?",
         "something something jezzballssszzz"
       ]
     end

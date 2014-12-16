@@ -11,8 +11,7 @@ module Lemurick
         "Ho ho ho; ha ha ha",
         "Wisdom in youth is an abomination",
         "Dubious",
-
-      ].map{|string| string + coconut_oil }
+      ].map{|string| string + coconut_oil}
     end
 
     def coconut_oil

@@ -9,7 +9,7 @@ module Lemurick
       [
         "Queue me for help",
         "COFFEE",
-        "I can't think of quotes"
+        "I can't think of quotes",
         ":)",
         ":D",
         "^_^"
