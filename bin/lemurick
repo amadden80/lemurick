@@ -4,9 +4,11 @@
 require 'lemurick'
 
 
-unless ARGV[0]
-  ARGV[0] = LEMURS.sample
-  puts ARGV[0] + " says "
+unless name = ARGV[0]
+  name = LEMURS.sample
+  puts name + " says "
 end
 
-puts Lemurick::LemurMic.new(ARGV[0]).call
+
+
+puts Lemurick::LemurMic.new(name).call
